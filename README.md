@@ -15,6 +15,7 @@ It focuses on improving clarity and reducing technical debt through small, consi
 | Folder | Description |
 |--------|--------------|
 | `76-abstractmethod/` | The infrastructure for defining abstract base classes (ABCs) in Python |
+| `63-pytest/` | Testing framework known for its simpler syntax and its wide range of plugins |
 
 ---
 
